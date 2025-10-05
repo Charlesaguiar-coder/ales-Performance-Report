@@ -1,7 +1,7 @@
-# 📊 Sales Performance Dashboard
+# 📊 Sales Performance Report
 
 ## 📌 About
-This dashboard was developed in **Power BI** as part of the **Power BI Analyst program (DIO)**.  
+This report was developed in **Power BI** as part of the **Power BI Analyst program (DIO)**.  
 It provides an overview of **sales and profit performance** across different **countries, products, and business segments**, turning raw data into meaningful visual insights for decision-making.
 
 ---
